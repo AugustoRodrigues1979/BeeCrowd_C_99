@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "basic.h": "c",
+        "datatst.h": "c"
+    }
+}
